@@ -1,0 +1,9 @@
+C:\Users\Андрей\Desktop\SP_TankGame\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\SP_TankGame\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Андрей\Desktop\SP_TankGame\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\SP_TankGame\WindowsFormsApplication1\bin\Debug\SP_tankgame.exe.config
+C:\Users\Андрей\Desktop\SP_TankGame\WindowsFormsApplication1\obj\Debug\SPtankgame.Properties.Resources.resources
+C:\Users\Андрей\Desktop\SP_TankGame\WindowsFormsApplication1\bin\Debug\SP_tankgame.exe
+C:\Users\Андрей\Desktop\SP_TankGame\WindowsFormsApplication1\bin\Debug\SP_tankgame.pdb
+C:\Users\Андрей\Desktop\SP_TankGame\WindowsFormsApplication1\obj\Debug\SP_tankgame.exe
+C:\Users\Андрей\Desktop\SP_TankGame\WindowsFormsApplication1\obj\Debug\SP_tankgame.pdb
